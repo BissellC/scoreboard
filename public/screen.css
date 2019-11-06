@@ -83,4 +83,20 @@ html {
   .update-score {
     text-align: center;
   }
+
+  .inning {
+    text-align:center
+  }
+
+  .reset-button {
+    margin-top:13rem;
+  }
+
+  .winning-team {
+    color:green;
+  }
+
+  .losing-team {
+    color: red;
+  }
 }
